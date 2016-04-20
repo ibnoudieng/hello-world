@@ -1,2 +1,5 @@
 # hello-world
-My firts repository
+
+Hello everyone!
+
+Amaizing tool!
